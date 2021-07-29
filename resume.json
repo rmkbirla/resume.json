@@ -1,0 +1,55 @@
+{
+	"basics": {
+		"name": "Ramkrishna Birla",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/79080129?s=400&u=5a641ebd46ea1ece40af1e7e3cb1b89aac0d8386&v=4",
+		"email": "2020kuec2004@iiitkota.ac.in",
+		"phone": "6263415869",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics & Communication Engineering.",
+		"location": {
+			"address": "Bhulgaon",
+			"postalCode": "451113",
+			"city": "Sanawad",
+			"countryCode": "India",
+			"region": "Madhya Pradesh"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "rmkbirla",
+				"url": "https://www.twitter.com/rmkbirla"
+			},
+			{
+				"network": "Github",
+				"username": "rmkbirla",
+				"url": "https://www.github.com/rmkbirla/"
+			},
+			{
+				"network": "linkedin",
+				"username": "rmkbirla",
+				"url": "https://www.linkedin.com/in/rmkbirla/"
+			},
+			{
+				"network": "Instagram",
+				"username": "rmkbirla",
+				"url": "https://instagram.com/rmkbirla"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor Of Technology",
+		"courses": [
+			"Electronics & Communication Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "learner",
+		"keywords": ["HTML", "CSS", "C/C++", "Game Development", "AI"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Kabaddi", "Basketball", "Handball"]
+	}],
+	"references": []
+}
